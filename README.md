@@ -90,8 +90,8 @@ DataBase: MyDB > exit
 
 ## Requirements
 
-- Python 3.6+
-- `colorama` (for terminal coloring)
+- ![Python 3.6+](https://img.shields.io/badge/Python-3.6+-blue)
+- ![colorama](https://img.shields.io/badge/colorama-Any-orange)
 
 ---
 
